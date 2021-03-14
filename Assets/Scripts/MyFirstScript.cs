@@ -19,5 +19,6 @@ public class MyFirstScript : MonoBehaviour
     {
         Debug.Log("Buuton click");
         SceneManager.LoadScene(newScene);
+
     }
 }
